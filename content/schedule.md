@@ -36,37 +36,138 @@ text_groups:
   - name: 練習日程
     description: <p>※最新の日程や空き、開催状況などは、サークルのグループ LINE または「スポーツやろうよ」でご確認ください（本サイトは週１回程度を目標に更新しています）。</p>
 
-  - name: 2021/7/11(日) 第2部 15:30〜18:00
-    description: <p>3面・定員24名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+
+  - name: 2021/9/26(日) 第1部 9:00〜12:00
+    description: <p><p>3面・定員24名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
     class: line
 
+  - name: 2021/9/26(日) 第2部 12:00〜15:00
+    description: <p><p>3面・定員24名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+  - name: 2021/9/26(日) 第3部 15:00〜18:00
+    description: <p><p>3面・定員24名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+
+  - name: 2021/9/25(土)  13:00〜17:00
+    description: <p><p>4面・定員32名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/gsyGLdZoB2uYCAqY6">雑司ヶ谷体育館：MAP</a></p>
+
+
+  - name: 2021/9/23(木)  13:00〜17:00
+    description: <p><p>4面・定員32名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/vJAUJsdKcCqAaQxi6">豊島体育館：MAP</a></p>
+
+
+  - name: 2021/9/20(月)  13:00〜17:00
+    description: <p><p>4面・定員32名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/gsyGLdZoB2uYCAqY6">雑司ヶ谷体育館：MAP</a></p>
+
+
+  - name: 2021/9/19(日) 第1部 9:00〜12:00
+    description: <p><p>3面・定員24名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+  - name: 2021/9/19(日) 第2部 12:00〜15:00
+    description: <p><p>3面・定員24名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+  - name: 2021/9/19(日) 第3部 15:00〜18:00
+    description: <p><p>3面・定員24名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+
+  - name: 2021/9/11(土)  13:00〜17:00
+    description: <p><p>4面・定員32名（満員※）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/gsyGLdZoB2uYCAqY6">雑司ヶ谷体育館：MAP</a></p>
+
+
+
+  - name: 2021/9/5(日) 第1部 9:00〜12:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+    class: line
+
+  - name: 2021/9/5(日) 第2部 12:00〜15:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+  - name: 2021/9/5(日) 第3部 15:00〜18:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+
+  - name: 2021/8/29(日) 第1部 9:00〜12:00
+    description: <p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/ch9g2bhtZ9JsgdJN9">新宿スポーツセンター：MAP</a></p>
+    class: line
+
+  - name: 2021/8/29(日) 第2部 13:00〜17:00
+    description: <p><p>4面・定員32名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/vJAUJsdKcCqAaQxi6">豊島体育館：MAP</a></p>
+
+
+  - name: 2021/8/22(日) 第1部 9:00〜12:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+  - name: 2021/8/22(日) 第2部 12:00〜15:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+  - name: 2021/8/22(日) 第3部 15:00〜18:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+
+  - name: 2021/8/15(日) 第1部 9:00〜12:00
+    description: <p><p>4面・定員32名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/vJAUJsdKcCqAaQxi6">豊島体育館：MAP</a></p>
+
+  - name: 2021/8/15(日) 第2部 16:30〜19:00
+    description: <p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/ch9g2bhtZ9JsgdJN9">新宿スポーツセンター：MAP</a></p>
+
+
+  - name: 2021/8/11(水) 13:00〜17:00
+    description: <p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/ch9g2bhtZ9JsgdJN9">新宿スポーツセンター：MAP</a></p>
+
+
+  - name: 2021/8/9(月)  13:00〜17:00
+    description: <p><p>4面・定員32名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/vJAUJsdKcCqAaQxi6">豊島体育館：MAP</a></p>
+
+  - name: 2021/8/8(日) 9:00〜12:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+
+  - name: 2021/8/1(日) 第1部 9:00〜12:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+  - name: 2021/8/1(日) 第2部 12:00〜15:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+  - name: 2021/8/1(日) 第3部 15:00〜18:00
+    description: <p><p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/Nf8ojGeXdJaMV9xc7">文京総合体育館：MAP</a></p>
+
+
+  - name: 2021/7/25(日) 13:00〜17:00
+    description: <p>4面・定員32名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/ch9g2bhtZ9JsgdJN9">新宿スポーツセンター：MAP</a></p>
+    class: line
+
+
+  - name: 2021/7/11(日) 第2部 15:30〜18:00
+    description: <p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+
+
   - name: 2021/7/11(日) 第1部 12:30〜15:00
-    description: <p>3面・定員24名（※募集中）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+    description: <p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
 
 
   - name: 2021/6/27(日) 9:30〜12:00
-    description: <p>3面・定員24名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/ch9g2bhtZ9JsgdJN9">新宿スポーツセンター：MAP</a></p>
-
+    description: <p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/ch9g2bhtZ9JsgdJN9">新宿スポーツセンター：MAP</a></p>
+    class: line
 
   - name: 2021/6/20(日) 第2部 12:00〜15:00
-    description: </p><p>4面・定員32名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+    description: </p><p>4面・定員32名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
 
   - name: 2021/6/20(日) 第1部 9:00〜12:00
-    description: <p>4面・定員32名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+    description: <p>4面・定員32名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
 
 
   - name: 2021/6/13(日) 第2部 15:30〜18:00
-    description: <p>4面・定員32名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+    description: <p>4面・定員32名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
 
   - name: 2021/6/13(日) 第1部 12:30〜15:00
-    description: <p>4面・定員32名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
+    description: <p>4面・定員32名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/7ocdkJCbtL3WXgWz6">文京スポーツセンター ：MAP</a></p>
 
 
   - name: 2021/6/06(日) 第2部 15:30〜18:00
-    description: <p>3面・定員24名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+    description: <p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
 
   - name: 2021/6/06(日) 第1部 12:30〜15:00
-    description: <p>3面・定員24名（※満員）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
+    description: <p>3面・定員24名（終了）</p><p><a class="accent-text bold-text" href="https://goo.gl/maps/4fMaLGUo9K8ofTFu6">江戸川橋体育館 ：MAP</a></p>
 
 
   - name: 2021/5/05(水・祝) 17:00〜19:00
