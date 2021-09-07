@@ -1,0 +1,50 @@
+# baseURL: https://oshw-tokyo.github.io/site-badminton-relation-bunkyo
+baseURL: https://badminton-relation.com
+defaultContentLanguage: ja
+
+# googleAnalytics : "G-XJLECPRSN"
+
+languages:
+  ja:
+    languageName: Japanese
+    weight: 10
+    # title: 日本むかし話
+  en:
+    languageName: English
+    weight: 20
+    # title: "Japanese Old Tales"
+
+# Font
+custom_css : ["css/custom-font.css"]
+
+
+#deployment
+publishdir: docs
+
+title: 東京のバドミントンサークル「リレーション」のサイトです。
+theme: yourfolio
+disableKinds: [RSS, taxonomy, taxonomyTerm]
+googleAnalytics: UA-XXXXX-Y
+
+# Menu items
+menu:
+  main:
+  - name: このサークルについて
+    weight: 1
+    url: /about
+  - name: スケジュール
+    weight: 2
+    url: /schedule
+  # - name: 主な活動場所
+  #   weight: 3
+  #   url: /site
+  - name: お問い合わせ
+    weight: 4
+    url: /contact
+
+# Custom params
+params:
+  env: development
+  logoImage: img/logo.png
+  logoImageAlt: Yourfolio Theme brand logo
+
