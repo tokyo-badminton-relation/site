@@ -65,7 +65,7 @@ projects:
     link: https://www.instagram.com/relation202104
     class: wide-col
     image:
-      url: works/insta/lalo-hernandez-r34cKhbEDCU-unsplash.jpg
+      url: works/insta/lalo-hernandez-r34cKhbEDCU-unsplash-mod.jpg
       alt: The Friends theme
       media: "(max-width: 46.25em)"
       params:
