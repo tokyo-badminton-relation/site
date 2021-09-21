@@ -60,4 +60,32 @@ projects:
       - options: 848x443 Top
       - options: 565x420 Right
       - options: 360x318 Center
+  - title: Instagram
+    type: シュッとしたSNSです。
+    link: https://www.instagram.com/relation202104
+    class: wide-col
+    image:
+      url: works/insta/lalo-hernandez-r34cKhbEDCU-unsplash.jpg
+      alt: The Friends theme
+      media: "(max-width: 46.25em)"
+      params:
+      - options: 746x590 Right
+      - options: 848x443 Top
+      - options: 565x420 Right
+      - options: 360x318 Center
+  - title: Twitter
+    type: つぶやき。
+    link: https://twitter.com/relation202104/
+    class: short-col
+    image:
+      url: works/twitter/edgar-moran-F86aF9mLG0M-unsplash.jpg
+      alt: The Analytic web design theme
+      media: "(max-width: 46.25em)"
+      params:
+      - options: 364x590 Top
+      - options: 848x443 Top
+      - options: 565x420
+      - options: 360x318
+
+
 ---

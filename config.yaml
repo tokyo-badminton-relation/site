@@ -30,22 +30,22 @@ googleAnalytics: UA-XXXXX-Y
 menu:
   main:
   - name: このサークルについて
-    weight: 3
+    weight: 1
     url: /about
   - name: スケジュール
-    weight: 4
+    weight: 2
     url: /schedule
   # - name: 主な活動場所
   #   weight: 3
   #   url: /site
   - name: お問い合わせ
-    weight: 5
+    weight: 4
     url: /contact
   - name: Instagram
-    weight: 1
+    weight: 5
     url: "https://www.instagram.com/relation202104/"
   - name: Twitter
-    weight: 2
+    weight: 6
     url: "https://twitter.com/relation202104"
 
 
