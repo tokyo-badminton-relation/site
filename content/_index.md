@@ -27,7 +27,7 @@ projects:
     link: https://badminton-relation.com/schedule/
     image:
       url: works/schedule.jpg
-      alt: The Strato web design theme
+      alt: image of schedule
       media: "(max-width: 46.25em)"
       params:
       - options: 1130x590
@@ -40,7 +40,7 @@ projects:
     class: short-col
     image:
       url: works/about.jpg
-      alt: The Analytic web design theme
+      alt: image of playing badminton
       media: "(max-width: 46.25em)"
       params:
       - options: 364x590 Top
@@ -53,7 +53,7 @@ projects:
     class: wide-col
     image:
       url: works/contact.jpg
-      alt: The Friends theme
+      alt: image where someone is contacting
       media: "(max-width: 46.25em)"
       params:
       - options: 746x590 Right
@@ -61,12 +61,12 @@ projects:
       - options: 565x420 Right
       - options: 360x318 Center
   - title: Instagram
-    type: シュッとしたSNSです。
+    type: 練習風景などはこちら。
     link: https://www.instagram.com/relation202104
     class: wide-col
     image:
       url: works/insta/lalo-hernandez-r34cKhbEDCU-unsplash-mod2.jpg
-      alt: The Friends theme
+      alt: image of instagram
       media: "(max-width: 46.25em)"
       params:
       - options: 746x590 Right
@@ -74,12 +74,12 @@ projects:
       - options: 565x420 Right
       - options: 360x318 Center
   - title: Twitter
-    type: つぶやき。
+    type: 代表のつぶやき。
     link: https://twitter.com/relation202104/
     class: short-col
     image:
       url: works/twitter/edgar-moran-F86aF9mLG0M-unsplash.jpg
-      alt: The Analytic web design theme
+      alt: image of twitter
       media: "(max-width: 46.25em)"
       params:
       - options: 364x590 Top
