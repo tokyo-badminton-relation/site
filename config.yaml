@@ -41,10 +41,10 @@ menu:
   - name: お問い合わせ
     weight: 4
     url: /contact
-  - name: Instagram
+  - name: 練習風景（Instagram）
     weight: 5
     url: "https://www.instagram.com/relation202104/"
-  - name: Twitter
+  - name: つぶやき（Twitter）
     weight: 6
     url: "https://twitter.com/relation202104"
 
