@@ -23,19 +23,18 @@ text_groups:
   - name: 活動場所
     description: <span class="accent-text">東京都内、主に文京区とその周辺の区</span>で活動しています。
   - name: こんな人を募集
-    description: <span class="accent-text">男女問わず、経験未経験問わず、年齢問わず楽しく仲良くでき、バドミントンに興味がある方</span>を募集しています。    
+    description: <span class="accent-text">男女問わず、経験未経験問わず、年齢問わず楽しく仲良くでき、バドミントンに興味がある方</span>を募集しています。
   - name: サークルのメンバー
     description: 年齢は20代～50代と幅広いです。
   - name: サークル名について
     description: 「縁」を大切にしたいと考えて、「リレーション」という名前にしました。
+  - name: 禁止事項など
+    description: マルチ商法の勧誘などはNGです。
 
 
   - name: 活動内容
     description: <p>・準備運動（各自）</p><p>・基礎打ち（30分程度）</p><p>・ダブルス形式での試合（レベル分けに対応）</p><p>・ミックスダブルス試合</p><p>（※その他、レクリエーションなどについては検討中です）</p>
     class: line
-  - name: 参加費
-    description: 1 回 1,000 円程度
-
 
   - name: 新規のご参加に関するお問い合わせ
     description: 現在、メンバーを募集中です。<a class="accent-text bold-text" href="https://www.net-menber.com/look/data/129098.html">スポーツやろうよ！</a>からご連絡ください。
